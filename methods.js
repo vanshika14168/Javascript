@@ -1,0 +1,10 @@
+let b=345.6821
+console.log(b)
+console.log(b.toFixed(2))
+console.log(b.toFixed(1))
+console.log(b.toPrecision(4))
+console.log(b.toPrecision(3))
+console.log(typeof b.toFixed(2))
+console.log(typeof b.toFixed)
+console.log(typeof b.toPrecision(3))
+console.log(typeof b.toPrecision)
